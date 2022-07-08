@@ -3,7 +3,7 @@
 </p>
 
 <p>
- <h4 align="center"><b>I am Computer Specialist, UX Designer, Digital Artist and Firearms Fanatic!</b></h4>
+ <h4 align="center"><b>I'am Computer Specialist, UX Designer, Digital Artist and Firearms Fanatic!</b></h4>
 </p>
 
 <p align="center">
