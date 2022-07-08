@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PikuseruKaihatsu
+- 👀 I’m interested in Firearms and Crypto Mining
+- 🌱 I’m currently learning Lua
+- 📫 Contact me on discord: Pikuseru#8888
