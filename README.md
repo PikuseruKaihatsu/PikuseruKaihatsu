@@ -22,10 +22,10 @@
 <a align="center">
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvpDhnbqhqFdHmqXpcVBGMKKRxmCXHpbljgqbNxctFhqXhlTwBSTSXVsRjHbLPxGvbplCT" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a align="center">
- <img href="https://www.facebook.com/pikuserux/" align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <img href="https://www.facebook.com/pikuserux" align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
  <a align="center">
  <img href="https://paypal.me/PikuseruKaihatsu" align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
- 
+
   <a align="center">
  <img href="https://open.spotify.com/user/nplxzu8lw5y4og99ov8kv9heo" align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
  
