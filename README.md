@@ -22,15 +22,13 @@
 <a align="center">
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvpDhnbqhqFdHmqXpcVBGMKKRxmCXHpbljgqbNxctFhqXhlTwBSTSXVsRjHbLPxGvbplCT" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a align="center">
- <a href="https://www.facebook.com/pikuserux" align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <a href="https://www.facebook.com/pikuserux" target="blank"/><img align="center"/> <img align="center "src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
  <a align="center">
- <a href="https://paypal.me/PikuseruKaihatsu" align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-
+  <a href="https://paypal.me/PikuseruKaihatsu" target="blank"/></a> <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
   <a align="center">
- <a href="https://open.spotify.com/user/nplxzu8lw5y4og99ov8kv9heo" align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
- 
+   <a href="https://open.spotify.com/user/nplxzu8lw5y4og99ov8kv9heo" target="blank"/>  <img align="center "src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
    <a align="center">
- <a href="https://www.youtube.com/channel/UCEMeslsU8XJPMvpgUKY2xdw" align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+ <img href="https://www.youtube.com/channel/UCEMeslsU8XJPMvpgUKY2xdw" target="blank"/> <img align="center "src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  
    </samp>
 </div>
